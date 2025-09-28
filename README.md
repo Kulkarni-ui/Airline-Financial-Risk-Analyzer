@@ -98,9 +98,7 @@ A sample dataset is provided in `data/sample_dataset.csv` with the following col
 |-----------|--------------|------------------|----------------|--------------|------------|------------|
 | Vistara   | 8777         | BLR              | HYD            | 30           | 90         | 01-01-2023 |
 | GoAir     | 1197         | CCU              | MAA            | 8            | 153        | 02-01-2023 |
-| SpiceJet  | 8125         | MAA              | BOM            | 2            | 183        | 03-01-2023 |
-
-You can replace it with **real-world datasets** for more insights.  
+| SpiceJet  | 8125         | MAA              | BOM            | 2            | 183        | 03-01-2023 |  
 
 ---
 
