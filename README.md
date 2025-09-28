@@ -1,6 +1,6 @@
 # ✈️ Airline Financial Risk Analyzer  
 
-🔗 **Live Demo** → [Streamlit App](https://airline-financial-risk-analyzer.streamlit.app/)  
+🔗 **Live Demo** → [https://airline-financial-risk-analyzer.streamlit.app/](Stremalit app)  
 
 ---
 
