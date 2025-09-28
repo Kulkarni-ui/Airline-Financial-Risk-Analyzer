@@ -31,7 +31,7 @@ By combining **Python, Pandas, and Streamlit**, this project showcases how raw a
 ## 🖼️ Screenshots  
 
 ### Dashboard Overview  
-![Dashboard Screenshot](screenshots/dashboard.png)  
+![Dashboard Screenshot](https://github.com/Kulkarni-ui/Airline-Financial-Risk-Analyzer/blob/main/screenshots/dashboard.png)  
 
 > Example output showing airline delays, costs, and risk analysis.  
 
