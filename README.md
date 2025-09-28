@@ -80,7 +80,7 @@ streamlit run app.py
 ## 🚀 Deployment  
 
 ### 🌐 Live App  
-🔗 [Click here to try the app](YOUR-DEPLOYED-LINK)  
+🔗 [Click here to try the app](https://airline-financial-risk-analyzer.streamlit.app/)  
 
 ### 🌐 Deploy on **Streamlit Cloud**  
 1. Push your code to GitHub.  
@@ -128,7 +128,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 👨‍💻 Author  
 
 **Atharv Kulkarni**  
-🔗 [GitHub](https://github.com/Kulkarni-ui) | 🌐 Portfolio (if any) | ✉️ Contact  
+🔗 [GitHub](https://github.com/Kulkarni-ui) | 🌐 linkdin (https://www.linkedin.com/in/atharv-kulkarni-910785250/) | ✉️ Contact : 8850848258  
 
 ---
 ✨ _If you like this project, give it a ⭐ on GitHub!_
