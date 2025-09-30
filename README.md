@@ -11,7 +11,7 @@ Flight delays can lead to compensation claims, higher operational costs, and rep
 This project introduces the **Airline Financial Risk Analyzer**, an **interactive Streamlit web application** designed to:  
 - Analyze flight delays, passenger impacts, and financial risks.  
 - Provide real-time insights with visual dashboards.  
-- Demonstrate how data analytics can guide better decision-making in aviation risk management.  
+- Demonstrate how data analytics can guide better decision-making in aviation risk management. 
 
 By combining **Python, Pandas, and Streamlit**, this project showcases how raw airline delay data can be transformed into **actionable business insights**.  
 
