@@ -8,7 +8,7 @@
 Airline delays are not just an operational inconvenience — they also carry a **significant financial burden**.  
 Flight delays can lead to compensation claims, higher operational costs, and reputational risks that directly impact an airline’s financial performance.  
 
-This project introduces the **Airline Financial Risk Analyzer**, an **interactive Streamlit web application** designed to:  
+This project introduces the **Airline Financial Risk Analyzer**, an **interactive Streamlit web application** designed to: 
 - Analyze flight delays, passenger impacts, and financial risks.  
 - Provide real-time insights with visual dashboards.  
 - Demonstrate how data analytics can guide better decision-making in aviation risk management. 
