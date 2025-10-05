@@ -110,7 +110,7 @@ This project extends beyond visualization — it predicts airline financial risk
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
 | **Predicted Financial Impact Accuracy (±)** | Deviation between predicted and actual financial loss                                                                  | **22.62%** |
 | **R² Score**                                | Model performance (fit between predictions and actuals)                                                                | **0.49**   |
-| **Insight**                                 | The model effectively estimates airline financial losses with small variance between predicted and actual delay costs. | ✅          |
+| **Insight**                                 | The model effectively estimates airline financial losses with small variance between predicted and actual delay costs. |-|
 
 💰 Example Insight
 
