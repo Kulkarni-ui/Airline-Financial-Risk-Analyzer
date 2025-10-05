@@ -134,9 +134,9 @@ IndiGo       19.971429
 Name: DelayMinutes, dtype: float64
 
 🚨 Airline with highest average delay: Vistara (29.29 mins)
+```
 
 ---
-
 ## 📈 Visualization Summary
 
 - Total Financial Risk Card – Highlights the highest loss-bearing airline (e.g., Vistara).  
