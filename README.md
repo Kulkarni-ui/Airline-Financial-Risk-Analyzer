@@ -112,7 +112,7 @@ This project extends beyond visualization — it predicts airline financial risk
 | **R² Score**                                | Model performance (fit between predictions and actuals)                                                                | **0.49**   |
 | **Insight**                                 | The model effectively estimates airline financial losses with small variance between predicted and actual delay costs. |-|
 
-💰 Example Insight
+**💰 Example Insight**
 
 A 30-minute delay with ~90 passengers results in an estimated ₹6,000–₹7,000 total financial impact due to compensation, crew overtime, and operational inefficiencies.
 
@@ -132,6 +132,8 @@ SpiceJet     24.162162
 GoAir        22.000000
 IndiGo       19.971429
 Name: DelayMinutes, dtype: float64
+
+🚨 Airline with highest average delay: Vistara (29.29 mins)
 
 ---
 
