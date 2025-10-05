@@ -110,7 +110,7 @@ This project extends beyond visualization — it predicts airline financial risk
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
 | **Predicted Financial Impact Accuracy (±)** | Deviation between predicted and actual financial loss                                                                  | **22.62%** |
 | **R² Score**                                | Model performance (fit between predictions and actuals)                                                                | **0.49**   |
-| **Insight**                                 | The model effectively estimates airline financial losses with small variance between predicted and actual delay costs. |-|
+| **Insight**                                 | The model effectively estimates airline financial losses with small variance between predicted and actual delay costs. |   -    |
 
 **💰 Example Insight**
 
@@ -187,7 +187,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 👨‍💻 Author  
 
 **Atharv Kulkarni**  
-🔗 [GitHub](https://github.com/Kulkarni-ui) | 🌐 linkdin (https://www.linkedin.com/in/atharv-kulkarni-910785250/) | ✉️ Contact : 8850848258  
+🎓 AI & Data Science Enthusiast | 💡 Focused on Intelligent Systems, Aviation Analytics & Real-World AI Applications  
+🔗 [GitHub](https://github.com/Kulkarni-ui) | 🌐 [LinkedIn](https://www.linkedin.com/in/atharv-kulkarni-910785250/) | ✉️ 8850848258
 
 ---
 ## 🌟 Final Note  
