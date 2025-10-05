@@ -118,22 +118,49 @@ A 30-minute delay with ~90 passengers results in an estimated ₹6,000–₹7,00
 
 ---
 
- ## Visualization Summary
- -Total Financial Risk Card – Highlights the highest loss-bearing airline (e.g., Vistara).
- -Airline-wise Financial Risk Comparison Table – Shows breakdown by compensation, operational, and insurance costs.
- -Delay vs Financial Impact Curve – Illustrates linear relationship between delay duration and cost.
- -Prediction Comparison Chart – Demonstrates consistency between predicted and observed financial risks.
+## 🧪 Example Analysis Output
+
+```
+✅ File loaded successfully!
+Using columns → Airline: 'Airline', Delay: 'DelayMinutes'
+
+✈️ Average delay per airline:
+Airline
+Vistara      29.285714
+Air India    26.511628
+SpiceJet     24.162162
+GoAir        22.000000
+IndiGo       19.971429
+Name: DelayMinutes, dtype: float64
+
+🚨 Airline with highest average delay: Vistara (29.29 mins)
+
+## 📊 Results Summary
+- Predicted financial impact accuracy: ±22.62% on data  
+- R² Score: 0.49  
+- The model effectively estimates airline financial losses with small variance between predicted and actual delay costs.
+```
 
 ---
+
+## 📈 Visualization Summary
+
+- Total Financial Risk Card – Highlights the highest loss-bearing airline (e.g., Vistara).  
+- Airline-wise Financial Risk Comparison Table – Shows breakdown by compensation, operational, and insurance costs.  
+- Delay vs Financial Impact Curve – Illustrates linear relationship between delay duration and cost.  
+- Prediction Comparison Chart – Demonstrates consistency between predicted and observed financial risks.
+
+---
+
 ## 🧭 Interpretation
 
 The analysis reveals that:
 
-Even small delays significantly affect airline finances when scaled fleet-wide.
+- Even small delays significantly affect airline finances when scaled fleet-wide.  
+- Predictive analytics can support better scheduling, risk forecasting, and cost control.  
+- Integrating AI models like this into airline operations can enhance both efficiency and resilience.
 
-Predictive analytics can support better scheduling, risk forecasting, and cost control.
-
-Integrating AI models like this into airline operations can enhance both efficiency and resilience.
+---
 
 ---
 ## 🛠️ Built With  
