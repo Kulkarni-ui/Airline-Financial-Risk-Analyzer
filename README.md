@@ -133,14 +133,6 @@ GoAir        22.000000
 IndiGo       19.971429
 Name: DelayMinutes, dtype: float64
 
-🚨 Airline with highest average delay: Vistara (29.29 mins)
-
-## 📊 Results Summary
-- Predicted financial impact accuracy: ±22.62% on data  
-- R² Score: 0.49  
-- The model effectively estimates airline financial losses with small variance between predicted and actual delay costs.
-```
-
 ---
 
 ## 📈 Visualization Summary
@@ -162,7 +154,6 @@ The analysis reveals that:
 
 ---
 
----
 ## 🛠️ Built With  
 
 - [Python](https://www.python.org/) – Core programming language  
