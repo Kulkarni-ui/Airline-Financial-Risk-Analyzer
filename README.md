@@ -101,7 +101,45 @@ A sample dataset is provided in `data/sample_dataset.csv` with the following col
 | SpiceJet  | 8125         | MAA              | BOM            | 2            | 183        | 03-01-2023 |  
 
 ---
+📈 Results & Insights
 
+This project extends beyond visualization — it predicts airline financial risks using a regression-based model, quantifying the economic cost of delays.
+
+🔹 Key Analytical Findings
+| Metric                                      | Description                                                                                                            | Result     |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Predicted Financial Impact Accuracy (±)** | Deviation between predicted and actual financial loss                                                                  | **22.62%** |
+| **R² Score**                                | Model performance (fit between predictions and actuals)                                                                | **0.49**   |
+| **Insight**                                 | The model effectively estimates airline financial losses with small variance between predicted and actual delay costs. | ✅          |
+
+💰 Example Insight
+
+A 30-minute delay with ~90 passengers results in an estimated ₹6,000–₹7,000 total financial impact due to compensation, crew overtime, and operational inefficiencies.
+
+---
+
+ ## Visualization Summary
+
+  -Total Financial Risk Card – Highlights the highest loss-bearing airline (e.g., Vistara).
+
+  -Airline-wise Financial Risk Comparison Table – Shows breakdown by compensation, operational, and insurance costs.
+
+  -Delay vs Financial Impact Curve – Illustrates linear relationship between delay duration and cost.
+
+  -Prediction Comparison Chart – Demonstrates consistency between predicted and observed financial risks.
+
+---
+🧭 Interpretation
+
+The analysis reveals that:
+
+Even small delays significantly affect airline finances when scaled fleet-wide.
+
+Predictive analytics can support better scheduling, risk forecasting, and cost control.
+
+Integrating AI models like this into airline operations can enhance both efficiency and resilience.
+
+---
 ## 🛠️ Built With  
 
 - [Python](https://www.python.org/) – Core programming language  
