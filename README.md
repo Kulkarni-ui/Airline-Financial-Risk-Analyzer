@@ -164,10 +164,6 @@ The analysis reveals that:
 
 ---
 
-## 🤝 Contributing  
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to open a PR or raise an issue.  
 
 ---
 
