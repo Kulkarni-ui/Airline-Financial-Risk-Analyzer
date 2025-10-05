@@ -119,14 +119,10 @@ A 30-minute delay with ~90 passengers results in an estimated ₹6,000–₹7,00
 ---
 
  ## Visualization Summary
-
-  -Total Financial Risk Card – Highlights the highest loss-bearing airline (e.g., Vistara).
-
-  -Airline-wise Financial Risk Comparison Table – Shows breakdown by compensation, operational, and insurance costs.
-
-  -Delay vs Financial Impact Curve – Illustrates linear relationship between delay duration and cost.
-
-  -Prediction Comparison Chart – Demonstrates consistency between predicted and observed financial risks.
+ -Total Financial Risk Card – Highlights the highest loss-bearing airline (e.g., Vistara).
+ -Airline-wise Financial Risk Comparison Table – Shows breakdown by compensation, operational, and insurance costs.
+ -Delay vs Financial Impact Curve – Illustrates linear relationship between delay duration and cost.
+ -Prediction Comparison Chart – Demonstrates consistency between predicted and observed financial risks.
 
 ---
 ## 🧭 Interpretation
