@@ -101,11 +101,11 @@ A sample dataset is provided in `data/sample_dataset.csv` with the following col
 | SpiceJet  | 8125         | MAA              | BOM            | 2            | 183        | 03-01-2023 |  
 
 ---
-📈 Results & Insights
+## 📈 Results & Insights
 
 This project extends beyond visualization — it predicts airline financial risks using a regression-based model, quantifying the economic cost of delays.
 
-🔹 Key Analytical Findings
+🔹 **Key Analytical Findings**
 | Metric                                      | Description                                                                                                            | Result     |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
 | **Predicted Financial Impact Accuracy (±)** | Deviation between predicted and actual financial loss                                                                  | **22.62%** |
@@ -129,7 +129,7 @@ A 30-minute delay with ~90 passengers results in an estimated ₹6,000–₹7,00
   -Prediction Comparison Chart – Demonstrates consistency between predicted and observed financial risks.
 
 ---
-🧭 Interpretation
+## 🧭 Interpretation
 
 The analysis reveals that:
 
