@@ -121,10 +121,10 @@ A 30-minute delay with ~90 passengers results in an estimated ₹6,000–₹7,00
 ## 🧪 Example Analysis Output
 
 ```
-✅ File loaded successfully!
+File loaded successfully!
 Using columns → Airline: 'Airline', Delay: 'DelayMinutes'
 
-✈️ Average delay per airline:
+Average delay per airline:
 Airline
 Vistara      29.285714
 Air India    26.511628
@@ -133,7 +133,7 @@ GoAir        22.000000
 IndiGo       19.971429
 Name: DelayMinutes, dtype: float64
 
-🚨 Airline with highest average delay: Vistara (29.29 mins)
+ Airline with highest average delay: Vistara (29.29 mins)
 ```
 
 ---
