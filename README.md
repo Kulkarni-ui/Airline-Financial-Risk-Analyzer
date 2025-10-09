@@ -191,5 +191,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 This project highlights the convergence of **AI, data analytics, and financial intelligence** in modern aviation systems.  
 It demonstrates how predictive modeling and risk assessment can empower **data-driven financial decisions** and **operational resilience** in the airline industry.  
 
-✈️ By combining technology and finance, this work reflects the growing potential of **AI in FinTech and Aviation Analytics** — paving the way for smarter, safer, and more efficient skies.  
+By combining technology and finance, this work reflects the growing potential of **AI in FinTech and Aviation Analytics** — paving the way for smarter, safer, and more efficient skies.  
 
