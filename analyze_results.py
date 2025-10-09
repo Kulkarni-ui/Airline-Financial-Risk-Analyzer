@@ -34,7 +34,5 @@ r2 = r2_score(y, y_pred)
 mape = mean_absolute_percentage_error(y, y_pred) * 100
 
 # Print summary
-print("\n## Results Summary")
-print(f"- Predicted financial impact accuracy: ±{mape:.2f}% on data")
 print(f"- R² Score: {r2:.2f}")
 print("- The model effectively estimates airline financial losses with small variance between predicted and actual delay costs.")
