@@ -3,7 +3,7 @@
 🔗 **Live Demo** → [https://airline-financial-risk-analyzer.streamlit.app/]
 ---
 
-## 📖 Overview  
+## Overview  
 
 Airline delays are not just an operational inconvenience — they also carry a **significant financial burden**.  
 Flight delays can lead to compensation claims, higher operational costs, and reputational risks that directly impact an airline’s financial performance.  
@@ -17,17 +17,17 @@ By combining **Python, Pandas, and Streamlit**, this project showcases how raw a
 
 ---
 
-## 📊 Features  
+## Features  
 
-- 📈 **Delay Analysis** → Total delay, average delay, passenger impact.  
-- 💸 **Financial Risk Insights** → Compensation loss, operational costs, insurance risks.  
-- 🎨 **Interactive Dashboard** → Clean and modern Streamlit UI with cards and metrics.  
-- 📂 **CSV Upload** → Easily replace or extend the dataset with your own airline delay data.  
-- ☁️ **Deployment Ready** → Optimized for GitHub + Streamlit Cloud deployment.  
+-  **Delay Analysis** → Total delay, average delay, passenger impact.  
+-  **Financial Risk Insights** → Compensation loss, operational costs, insurance risks.  
+-  **Interactive Dashboard** → Clean and modern Streamlit UI with cards and metrics.  
+-  **CSV Upload** → Easily replace or extend the dataset with your own airline delay data.  
+-  **Deployment Ready** → Optimized for GitHub + Streamlit Cloud deployment.  
 
 ---
 
-## 🖼️ Screenshots  
+## Screenshots  
 
 ### Dashboard Overview  
  
@@ -36,7 +36,7 @@ By combining **Python, Pandas, and Streamlit**, this project showcases how raw a
 
 ---
 
-## 🏗️ Project Structure  
+## Project Structure  
 
 ```
 Airline-Financial-Risk-Analyzer/
@@ -50,7 +50,7 @@ Airline-Financial-Risk-Analyzer/
 
 ---
 
-## ⚙️ Installation & Setup  
+## Installation & Setup  
 
 ### 1️⃣ Clone the repository  
 ```bash
@@ -77,20 +77,20 @@ streamlit run app.py
 
 ---
 
-## 🚀 Deployment  
+## Deployment  
 
-### 🌐 Live App  
+### Live App  
 🔗 [Click here to try the app](https://airline-financial-risk-analyzer.streamlit.app/)  
 
-### 🌐 Deploy on **Streamlit Cloud**  
+### Deploy on **Streamlit Cloud**  
 1. Push your code to GitHub.  
 2. Go to [Streamlit Cloud](https://streamlit.io/cloud).  
 3. Connect your GitHub repo.  
-4. Deploy → Done 🎉  
+4. Deploy → Done   
 
 ---
 
-## 📊 Sample Dataset  
+## Sample Dataset  
 
 A sample dataset is provided in `data/sample_dataset.csv` with the following columns:  
 
@@ -101,7 +101,7 @@ A sample dataset is provided in `data/sample_dataset.csv` with the following col
 | SpiceJet  | 8125         | MAA              | BOM            | 2            | 183        | 03-01-2023 |  
 
 ---
-## 📈 Results & Insights
+## Results & Insights
 
 This project extends beyond visualization — it predicts airline financial risks using a regression-based model, quantifying the economic cost of delays.
 
@@ -113,7 +113,7 @@ This project extends beyond visualization — it predicts airline financial risk
 
 ---
 
-## 🧪 Example Analysis Output
+## Example Analysis Output
 
 ```
 File loaded successfully!
@@ -132,7 +132,7 @@ Name: DelayMinutes, dtype: float64
 ```
 
 ---
-## 📈 Visualization Summary
+## Visualization Summary
 
 - Total Financial Risk Card – Highlights the highest loss-bearing airline (e.g., Vistara).  
 - Airline-wise Financial Risk Comparison Table – Shows breakdown by compensation, operational, and insurance costs.  
@@ -141,7 +141,7 @@ Name: DelayMinutes, dtype: float64
 
 ---
 
-## 🧭 Interpretation
+## Interpretation
 
 The analysis reveals that:
 
@@ -151,14 +151,14 @@ The analysis reveals that:
 
 ---
 
-## 🛠️ Built With  
+## Built With  
 
 - [Python](https://www.python.org/) – Core programming language  
 - [Pandas](https://pandas.pydata.org/) – Data analysis & manipulation  
 - [Streamlit](https://streamlit.io/) – Interactive dashboard & deployment  
 
 ---
-### 🔍 Key Learnings  
+### Key Learnings  
 - Built a complete **data-to-decision pipeline** integrating delay data and financial metrics.  
 - Understood how **airline delays translate into quantifiable financial losses**, enabling **FinTech-style risk forecasting**.  
 - Gained hands-on experience in **predictive analytics**, **data visualization**, and **cost modeling** using Python and Streamlit.  
@@ -166,27 +166,27 @@ The analysis reveals that:
 
 ---
 
-### 🚀 Future Scope  
+### Future Scope  
 - Integration of **real-time financial data** (fuel cost, compensation models) for dynamic loss estimation.  
 - Expansion into a **FinTech dashboard** offering predictive insights for airline investors and insurers.  
 - Inclusion of **external factors** such as weather, air traffic, and policy regulations for holistic risk prediction.  
 - Cloud-based deployment with **automated financial alerts** for operational and investment risk mitigation.  
 ---
 
-## 📜 License  
+## License  
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 ---
 
-## 👨‍💻 Author  
+## Author  
 
 **Atharv Kulkarni**  
-🎓 AI & Data Science Enthusiast | 💡 Focused on Intelligent Systems, Aviation Analytics & Real-World AI Applications  
-🔗 [GitHub](https://github.com/Kulkarni-ui) | 🌐 [LinkedIn](https://www.linkedin.com/in/atharv-kulkarni-910785250/) | ✉️ 8850848258
+ AI & Data Science Enthusiast | Focused on Intelligent Systems, Aviation Analytics & Real-World AI Applications  
+🔗 [GitHub](https://github.com/Kulkarni-ui) | [LinkedIn](https://www.linkedin.com/in/atharv-kulkarni-910785250/) | ✉️ 8850848258
 
 ---
-## 🌟 Final Note  
+## Final Note  
 
 This project highlights the convergence of **AI, data analytics, and financial intelligence** in modern aviation systems.  
 It demonstrates how predictive modeling and risk assessment can empower **data-driven financial decisions** and **operational resilience** in the airline industry.  
